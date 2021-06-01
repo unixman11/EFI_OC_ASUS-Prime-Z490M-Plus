@@ -244,7 +244,7 @@
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
-				<data>AACbPg==</data>
+				<data>BwCbPg==</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -879,7 +879,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-v alcid=1 keepsyms=1 -cdfon -rtcfxdbg rtcfx_exclude=00-FF</string>
+				<string>alcid=1 keepsyms=1 -cdfon rtcfx_exclude=00-FF</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
